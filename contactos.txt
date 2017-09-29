@@ -1,0 +1,5 @@
+Nombre                   Telefono   Celular    Correo                   Foto
+---------------------------------------------------------------------------------
+
+Daniel Brenes Martínez   25514298   83181831   danielbm1298@gmail.com   self.png   
+Eduardo Quiroga Alfaro   
